@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   I'm a PhD candidate in Economics at NYU. My research focuses on macroeconomis, inequality, labor markets and numerical methods. 
 
 # social links
-twitter_username: @clizamasaez
-github_username:  @clizama
+twitter_username: https://twitter.com/clizamasaez
+github_username: https://github.com/clizama
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
